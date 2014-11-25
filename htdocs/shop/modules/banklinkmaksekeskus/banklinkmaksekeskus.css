@@ -1,0 +1,34 @@
+/*
+  
+ *  Copyright 2013 Aktsiamaailm OÜ
+ *  Litsentsitingimused on saadaval http://www.e-abi.ee/litsents.
+ *  
+
+*/
+/* 
+    Created on : Jul 24, 2014, 3:42:16 AM
+    Author     : Matis
+*/
+
+p.payment_module a.banklink:after {
+    color: #777777;
+    content: "";
+    display: block;
+    font-family: "FontAwesome";
+    font-size: 25px;
+    height: 22px;
+    margin-top: -11px;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    width: 14px;
+}
+
+p.payment_module a.banklinkmaksekeskus {
+    background: url("./banklinkmaksekeskus.gif") no-repeat scroll 15px 28px / 58px auto #fbfbfb;
+}
+
+
+p.payment_module a.banklink:hover {
+    background-color: #f6f6f6;
+}

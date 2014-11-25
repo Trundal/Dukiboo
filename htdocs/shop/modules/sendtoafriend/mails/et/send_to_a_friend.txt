@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Tervist {name},
+
+Täname, et lõite püsikliendi konto {shop_name} poodi. 
+
+Vajutage siia, et vaadata seda toodet: {product}
+[{product_link}] 
+
+{shop_name} [{shop_url}] kasutab PrestaShopi(tm)
+[http://www.prestashop.com/] 
+

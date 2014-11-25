@@ -1,0 +1,1 @@
+a:1:{s:201:"AVG((IFNULL(product_attribute_shop.price, product_shop.price) - IFNULL(product_attribute_shop.wholesale_price, product_shop.wholesale_price)) / IFNULL(product_attribute_shop.price, product_shop.price))";N;}
